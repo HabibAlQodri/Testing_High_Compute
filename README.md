@@ -1,4 +1,4 @@
-# HPC — Benchmark Paralel
+# HPC Benchmark Paralel
 
 Menghitung π dengan Monte Carlo, lalu membandingkan: **loop Python serial**, **multiprocessing (N worker)**, dan **vektorisasi NumPy**.
 Menunjukkan konsep inti HPC: speedup, efisiensi paralel, overhead, dan pentingnya vektorisasi.
